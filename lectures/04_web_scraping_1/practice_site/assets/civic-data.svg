@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Civic data logo</title>
+  <desc id="desc">A simple city hall icon with data bars.</desc>
+  <rect width="96" height="96" rx="18" fill="#e9f2fb"/>
+  <path d="M18 40h60v8H18z" fill="#153b63"/>
+  <path d="M25 48h10v28H25zM43 48h10v28H43zM61 48h10v28H61z" fill="#2268a8"/>
+  <path d="M20 76h56v7H20z" fill="#153b63"/>
+  <path d="M48 13l30 21H18z" fill="#2c7a58"/>
+  <circle cx="48" cy="31" r="5" fill="#ffffff"/>
+</svg>
