@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /ds-for-pubpol-spring26-published/lectures/04_web_scraping_1/practice_site/
+Disallow: /ds-for-pubpol-spring26-published/lectures/04_web_scraping_1/private/
+Crawl-delay: 2
+
+# Teaching note:
+# This practice website is designed for small classroom scraping exercises.
+# Keep requests slow and limited, and do not scrape paths marked Disallow.
